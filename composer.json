@@ -1,7 +1,7 @@
 {
-    "name": "nicolus/picofeed",
+    "name": "ch1p/picofeed8",
     "description": "RSS/Atom parsing library",
-    "homepage": "https://github.com/nicolus/picoFeed",
+    "homepage": "https://github.com/ch1p/picofeed8",
     "type": "library",
     "license": "MIT",
     "authors": [
